@@ -1,0 +1,21 @@
+*{
+    font-family: inter;
+}
+.div{
+    display: flex;
+    justify-content: space-around;
+}
+.h1{
+text-align: center;
+}
+.div2{
+    background-color: red;
+    color: white;
+    width: 500px;
+    height: 450px;
+    text-align:center;
+    margin: 0 auto;
+}
+.parent{
+    display: flex;
+}
